@@ -1,0 +1,7 @@
+date,session_key,pit_duration,stop_duration,lap_number,driver_number,meeting_key,lane_duration,driver,under_vsc,status,label
+2026-09-13 13:28:01.583000+00:00,11369,31.8,,14,12,1294,31.8,ANT,True,VSC,"ANT
+Lap 14"
+2026-09-13 13:28:08.785000+00:00,11369,31.0,,14,3,1294,31.0,VER,True,VSC,"VER
+Lap 14"
+2026-09-13 13:30:20.779000+00:00,11369,35.1,,15,1,1294,35.1,NOR,False,Green flag,"NOR
+Lap 15"

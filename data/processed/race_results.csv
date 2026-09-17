@@ -1,0 +1,23 @@
+position,driver_number,number_of_laps,points,dnf,dns,dsq,duration,gap_to_leader,meeting_key,session_key,driver
+1.0,12,57,25.0,False,False,False,5663.754,0,1294,11369,ANT
+2.0,3,57,18.0,False,False,False,5668.105,4.351,1294,11369,VER
+3.0,1,57,15.0,False,False,False,5668.843,5.089,1294,11369,NOR
+4.0,16,57,12.0,False,False,False,5692.87,29.116,1294,11369,LEC
+5.0,63,57,10.0,False,False,False,5693.583,29.829,1294,11369,RUS
+6.0,30,57,8.0,False,False,False,5750.5,86.746,1294,11369,LAW
+7.0,43,57,6.0,False,False,False,5758.035,94.281,1294,11369,COL
+8.0,81,57,4.0,False,False,False,5759.593,95.839,1294,11369,PIA
+9.0,41,56,2.0,False,False,False,,+1 LAP,1294,11369,LIN
+10.0,27,56,1.0,False,False,False,,+1 LAP,1294,11369,HUL
+11.0,31,56,0.0,False,False,False,,+1 LAP,1294,11369,OCO
+12.0,10,56,0.0,False,False,False,,+1 LAP,1294,11369,GAS
+13.0,5,56,0.0,False,False,False,,+1 LAP,1294,11369,BOR
+14.0,22,56,0.0,False,False,False,,+1 LAP,1294,11369,TSU
+15.0,23,56,0.0,False,False,False,,+1 LAP,1294,11369,ALB
+16.0,87,56,0.0,False,False,False,,+1 LAP,1294,11369,BEA
+17.0,14,55,0.0,False,False,False,,+2 LAPS,1294,11369,ALO
+18.0,77,54,0.0,False,False,False,,+3 LAPS,1294,11369,BOT
+,55,43,0.0,True,False,False,,,1294,11369,SAI
+,11,31,0.0,True,False,False,,,1294,11369,PER
+,18,12,0.0,True,False,False,,,1294,11369,STR
+,44,6,0.0,True,False,False,,,1294,11369,HAM
